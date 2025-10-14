@@ -30,7 +30,7 @@ I transform raw data into **actionable insights** and enjoy building projects th
 
 ## 📫 Connect with Me
 - LinkedIn: [Yashvi Verma](https://www.linkedin.com/in/yashvi-verma19?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- Portfolio: [Add Your Portfolio Link Here]  
+- Portfolio: [https://www.perplexity.ai/apps/ef8b4a6f-3673-4182-a71e-c51b5b6ff06e]  
 
 ---
 
