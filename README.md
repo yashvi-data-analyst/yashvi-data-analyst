@@ -1,76 +1,75 @@
 <p align="center">
+
 <img src="https://raw.githubusercontent.com/yashvi-data-analyst/yashvi-data-analyst/main/banner.png" width="100%">
+
 </p>
 
-<h1 align="center">Hi 👋, I'm Yashvi Verma</h1>
+<h1 align="center">
+Hi 👋 I'm <span style="color:#ff3b3b;">Yashvi Verma</span>
+</h1>
 
 <h3 align="center">
-AI Engineer • Python Developer • LangChain Developer • Building Intelligent AI Systems 🚀
+
+📊 Data Analyst • 🤖 AI/ML Enthusiast • 🐍 Python Developer • 🚀 GenAI Learner
+
 </h3>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=FF3131&center=true&vCenter=true&width=900&lines=AI+Engineer;Building+Real+World+AI+Applications;LangChain+Developer;Python+Developer;Machine+Learning+Enthusiast;LLMs+%7C+RAG+%7C+GenAI;Always+Learning+Always+Building"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1200&color=FF3131&center=true&vCenter=true&width=950&lines=Turning+Data+into+Actionable+Insights+📊;Building+AI+Powered+Applications+🤖;Python+Developer+🐍;Power+BI+%7C+SQL+%7C+Excel+Expert;LangChain+%7C+GenAI+%7C+Streamlit;Always+Learning+•+Always+Building+🚀"/>
 
 </p>
 
 <p align="center">
 
 <a href="https://github.com/yashvi-data-analyst">
-<img src="https://img.shields.io/github/followers/yashvi-data-analyst?label=Followers&logo=github&style=for-the-badge">
+<img src="https://img.shields.io/github/followers/yashvi-data-analyst?style=for-the-badge&logo=github&label=Followers"/>
 </a>
 
 <a href="https://github.com/yashvi-data-analyst">
-<img src="https://img.shields.io/github/stars/yashvi-data-analyst?affiliations=OWNER&style=for-the-badge">
+<img src="https://img.shields.io/github/stars/yashvi-data-analyst?affiliations=OWNER&style=for-the-badge&label=Stars"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=yashvi-data-analyst&style=for-the-badge&color=red">
+<img src="https://komarev.com/ghpvc/?username=yashvi-data-analyst&style=for-the-badge&color=red"/>
 
 </p>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
-💡 Passionate AI Engineer focused on building real-world AI applications using Large Language Models (LLMs), LangChain, Machine Learning and Python.
+<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjM0Y3l3ZWlmdHB3M2ZwaXZ6b2ZtNWFqNmY3OG15cXF3YjN5YzE0diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif">
 
-🧠 I enjoy creating intelligent assistants, AI agents, Retrieval-Augmented Generation (RAG) systems and interactive Streamlit applications.
+### 👩‍💻 Who am I?
 
-🌍 Currently exploring the future of Generative AI and modern AI product development.
+🎯 Aspiring **Data Analyst** passionate about transforming raw data into meaningful business insights.
+
+🤖 Exploring **Artificial Intelligence, Machine Learning, Generative AI and AI Agents** to build intelligent real-world applications.
+
+💼 Experienced through multiple internships involving analytics, Python, dashboards and AI projects.
+
+📈 I enjoy solving business problems using **Data + AI**.
 
 📍 Saharanpur, Uttar Pradesh, India
 
-🎯 Goal:
-Build AI products that solve real-world problems.
 ---
 
-# 🛠️ Tech Stack
+### 🚀 Currently Exploring
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,fastapi"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Mistral_AI-EA580C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Tavily_Search-111827?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OpenWeather_API-F6C343?style=for-the-badge"/>
-
-</p>
+- 📊 Advanced Data Analytics
+- 🤖 AI Agents
+- 🧠 LangChain
+- 🌍 Retrieval-Augmented Generation (RAG)
+- ⚡ Streamlit
+- 🚀 FastAPI
+- ☁️ GitHub Deployment
+- 💬 Large Language Models (LLMs)
 
 ---
 
-# 💻 Languages
+# 🛠️ Tech Stack & Skills
+
+### 📊 Data Analytics
 
 <p align="center">
 
@@ -78,27 +77,95 @@ Build AI products that solve real-world problems.
 
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 </p>
 
 ---
 
-# 🚀 Currently Working On
+### 📈 Python Libraries
 
-🤖 AI Agents using LangChain
+<p align="center">
 
-🌍 Intelligent AI Applications
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 
-📄 Retrieval-Augmented Generation (RAG)
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 
-💬 Conversational AI
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
 
-🌦️ City Intelligence System
+<img src="https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge"/>
 
-⚡ FastAPI & Streamlit Projects
+</p>
+
+---
+
+### 🤖 AI • Machine Learning • GenAI
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Deep_Learning-FF1744?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Generative_AI-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangChain-00C853?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Mistral_AI-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Jenni_AI-8E44AD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-7B1FA2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Prompt_Engineering-red?style=for-the-badge"/>
+
+</p>
+
+---
+
+### ⚙️ Frameworks & Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
+
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab"/>
+
+</p>
+
+---
+
+# 💼 Experience
+
+### 🚀 Internship Experience
+
+✔️ Worked on multiple real-world Data Analytics, Python and AI projects through internships.
+
+✔️ Built interactive dashboards using Excel, SQL and Power BI.
+
+✔️ Developed AI-powered applications using LangChain, Streamlit and Python.
+
+✔️ Worked on Machine Learning models, automation and real-world datasets.
+
+✔️ Experienced in collaborating on practical industry-oriented projects.
 
 ---
 
@@ -112,21 +179,45 @@ Build AI products that solve real-world problems.
 
 ## 🌍 City Intelligence System
 
-AI-powered Weather & News Assistant built using **LangChain**, **Mistral AI**, **Tavily Search**, **OpenWeather API** and **Streamlit**.
+### AI-Powered Weather & News Assistant
+
+✔️ Real-Time Weather
+
+✔️ Latest News
+
+✔️ LangChain Agents
+
+✔️ Mistral AI
+
+✔️ Tavily Search
+
+✔️ OpenWeather API
+
+✔️ Streamlit
 
 ### 🚀 Live Demo
 
-https://city-intelligence-system-tvae-iasu9sznd9gn2py4du8frd.streamlit.app/
+<a href="https://city-intelligence-system-tvae-iasu9sznd9gn2py4du8frd.streamlit.app/">Launch App ↗</a>
 
 ### 📂 Repository
 
-https://github.com/yashvi-data-analyst/city-intelligence-system
+<a href="https://github.com/yashvi-data-analyst/city-intelligence-system">View Project</a>
 
 </td>
 
 <td>
 
-<img src="https://raw.githubusercontent.com/yashvi-data-analyst/city-intelligence-system/main/assets/HomePage.png" width="100%">
+🌤️ AI Weather
+
+📰 Live News
+
+🤖 AI Agents
+
+⚡ Fast Response
+
+💬 Chat Interface
+
+🌍 Modern UI
 
 </td>
 
@@ -144,19 +235,19 @@ https://github.com/yashvi-data-analyst/city-intelligence-system
 
 ## 🤖 Multi Personality AI Chatbot
 
-An intelligent chatbot powered by **LangChain** & **Mistral AI** featuring multiple personalities including Teacher, Funny, Pirate, Motivational, Romantic and more.
+An intelligent chatbot built using **LangChain + Mistral AI** featuring multiple AI personalities.
 
 </td>
 
 <td>
 
-🧠 Multiple AI Personalities
+🎭 Multiple Personalities
 
 ⚡ LangChain
 
 🤖 Mistral AI
 
-💬 Interactive Chat
+💬 Conversational AI
 
 </td>
 
@@ -174,17 +265,19 @@ An intelligent chatbot powered by **LangChain** & **Mistral AI** featuring multi
 
 ## 📄 RAG PDF Chatbot
 
-Retrieval-Augmented Generation (RAG) system capable of answering questions directly from PDF documents using semantic search.
+Ask questions directly from PDF documents using Retrieval-Augmented Generation.
 
 </td>
 
 <td>
 
-📚 Document Intelligence
+📚 PDF Intelligence
 
 🔍 Semantic Search
 
-🧠 AI Question Answering
+🧠 AI Answers
+
+⚡ Fast Retrieval
 
 </td>
 
@@ -202,17 +295,49 @@ Retrieval-Augmented Generation (RAG) system capable of answering questions direc
 
 ## 🎬 Netflix ML Classifier
 
-Machine Learning project that classifies Netflix titles into Movies and TV Shows using Python and ML algorithms.
+Machine Learning project for classifying Netflix titles into Movies and TV Shows.
 
 </td>
 
 <td>
 
-🎯 Machine Learning
-
-📊 Data Analysis
+📊 Machine Learning
 
 🐍 Python
+
+📈 Data Analysis
+
+🎯 Classification
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## ❤️ Heart Disease Prediction
+
+Predict heart disease risk using Machine Learning algorithms with interactive visualization.
+
+</td>
+
+<td>
+
+❤️ Healthcare AI
+
+📊 Analytics
+
+🤖 ML Model
+
+📈 Prediction
 
 </td>
 
@@ -228,13 +353,13 @@ Machine Learning project that classifies Netflix titles into Movies and TV Shows
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashvi-data-analyst&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yashvi-data-analyst&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=yashvi-data-analyst&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashvi-data-analyst&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashvi-data-analyst&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -244,51 +369,13 @@ Machine Learning project that classifies Netflix titles into Movies and TV Shows
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yashvi-data-analyst&theme=radical&no-frame=true&no-bg=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=yashvi-data-analyst&theme=radical&no-frame=true&no-bg=true&row=1&column=6"/>
 
 </p>
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/yashvi-verma19?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/yashvi-data-analyst">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://city-intelligence-system-tvae-iasu9sznd9gn2py4du8frd.streamlit.app/">
-<img src="https://img.shields.io/badge/🚀%20Live%20Demo-City%20Intelligence-success?style=for-the-badge"/>
-</a>
-
-</p>
-
----
-
-# 💡 Quote I Believe In
-
-> **"Artificial Intelligence isn't here to replace creativity—it's here to amplify it."**
-
----
-
-<p align="center">
-
-### ❤️ Thanks for visiting my profile!
-
-🚀 Building AI Products • Learning Every Day • Solving Real-World Problems
-
-⭐ If you like my work, feel free to follow me and explore my repositories.
-
-</p>
-
----
-
-# 🐍 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -298,55 +385,106 @@ Machine Learning project that classifies Netflix titles into Movies and TV Shows
 
 ---
 
-# 👀 Profile Views
+# 🌐 Let's Connect
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=yashvi-data-analyst&label=Profile%20Views&color=ff0000&style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/yashvi-verma19?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
 
-<img src="https://img.shields.io/github/followers/yashvi-data-analyst?label=Followers&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
-<img src="https://img.shields.io/github/stars/yashvi-data-analyst?affiliations=OWNER&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/yashvi-data-analyst">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<a href="https://city-intelligence-system-tvae-iasu9sznd9gn2py4du8frd.streamlit.app/">
+
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-City%20Intelligence-success?style=for-the-badge"/>
+
+</a>
 
 </p>
 
 ---
 
-# 🚀 Currently Exploring
+# 📫 Reach Me
 
-```python
-class YashviVerma:
+📧 **Email:** *Add your professional email here*
 
-    def __init__(self):
-        self.role = "AI Engineer"
-        self.language = "Python"
-        self.interests = [
-            "Generative AI",
-            "LangChain",
-            "LLMs",
-            "AI Agents",
-            "Machine Learning",
-            "RAG Systems",
-            "FastAPI",
-            "Streamlit"
-        ]
+💼 **Open to:** Data Analyst • Business Analyst • AI/ML Internships • Python Developer Roles
 
-    def motto(self):
-        return "Build AI that solves real-world problems 🚀"
-```
+🌍 **Location:** Saharanpur, Uttar Pradesh, India
 
 ---
 
-<h3 align="center">
+# 💡 My Philosophy
 
-✨ Thanks for stopping by! ✨
+> **"Data tells the story, AI amplifies it, and great solutions create real impact."**
 
-Keep Learning • Keep Building • Keep Growing 🚀
+---
 
-</h3>
+---
 
-<p align="center">
+# 🚀 Current Goals for 2026
 
-Made with ❤️ by **Yashvi Verma**
+✅ Master Advanced SQL
 
-</p>
+✅ Build Enterprise-Level Power BI Dashboards
+
+✅ Develop Production-Ready AI Applications
+
+✅ Contribute to Open Source Projects
+
+✅ Strengthen Machine Learning & Generative AI Skills
+
+✅ Secure a Data Analyst / AI-Focused Role
+
+---
+
+# 🌟 Beyond the Resume
+
+📊 I enjoy transforming raw data into meaningful business insights.
+
+🤖 I love experimenting with AI, LLMs and intelligent automation.
+
+💡 Every project I build helps me learn something new and solve practical problems.
+
+🚀 I believe in continuous learning, real-world implementation and building solutions that create value.
+
+---
+
+# ☕ Fun Facts
+
+💻 Most productive with a cup of coffee.
+
+🎧 Coding + Lo-fi music = Perfect combo.
+
+🌍 Always excited to learn new technologies.
+
+📚 Learning never stops.
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+### 📊 Data Analyst | 🤖 AI/ML Enthusiast | 🐍 Python Developer
+
+*"Turning Data into Insights. Turning Ideas into Intelligent Solutions."*
+
+<img src="https://komarev.com/ghpvc/?username=yashvi-data-analyst&style=for-the-badge&color=red"/>
+
+If you like my work,
+
+⭐ Star my repositories
+
+🍴 Fork interesting projects
+
+🤝 Let's connect and build something impactful!
+
+</div>
