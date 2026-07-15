@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/yashvi-data-analyst/yashvi-data-analyst/main/banner.png" width="100%">
+  <img src="./github-banner.png" width="100%" alt="Yashvi Verma AI Banner">
 </p>
 
 <h1 align="center">
