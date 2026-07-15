@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="Yashvi Verma Banner"/>
+<img src="https://raw.githubusercontent.com/yashvi-data-analyst/yashvi-data-analyst/main/banner.png" width="100%">
 </p>
 
 <h1 align="center">
